@@ -1,50 +1,77 @@
 <div align="center">
 
-# 👋 Hey, I'm Marcus
+# Hey, I'm Marcus 👋
 
-**Software Developer | Open Source Enthusiast | Stand-up Comedy Fan**
+📍 Somewhere cold and beautiful | 🐹 Go enthusiast | 🎭 Stand-up comedy hobbyist
 
-_I believe code should make people's lives easier — and occasionally make them laugh._
+_Building things that work. Laughing at things that don't._
 
-[![Blog](https://img.shields.io/badge/Blog-jfjrh2014.github.io-blue?style=for-the-badge&logo=github&logoColor=white)](https://jfjrh2014.github.io/)
-[![GitHub followers](https://img.shields.io/github/followers/jfjrh2014?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jfjrh2014)
+[![Blog](https://img.shields.io/badge/Blog-jfjrh2014.github.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://jfjrh2014.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/jfjrh2014?style=flat-square&logo=github&logoColor=white)](https://github.com/jfjrh2014)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
 
 ---
 
 </div>
 
-## 🚀 What I Do
+## ⭐ Start Here
 
-- 🐹 **Go** is my weapon of choice — fast, simple, and beautifully opinionated
-- 🔧 I love contributing to open source, one small PR at a time
-- 🌐 Building tools that make developers' lives easier
-- 🧪 TDD enthusiast — if it's not tested, it's not done
+- 🛡️ [**sbomlyze**](https://github.com/rezmoss/sbomlyze) — SBOM diff & analysis tool for supply-chain security (contributor: compliance scoring module)
+- 📦 [**syft**](https://github.com/anchore/syft) — SBOM generation from containers & filesystems (contributor: binary classifier)
+- ✍️ [**My Blog**](https://jfjrh2014.github.io/) — Thoughts on Go, open source, and developer life
+
+## 🔭 Current Projects
+
+### Open Source Contributions
+
+- 🛡️ **[sbomlyze](https://github.com/rezmoss/sbomlyze)** — Added NTIA/CISA/BSI TR-03183 compliance scoring with policy enforcement
+- 📦 **[syft](https://github.com/anchore/syft)** — Binary classifier for identifying the syft tool itself in SBOM scans
+- 🔴 **[go-redis](https://github.com/jfjrh2014/go-redis)** — Redis Go client (forked, exploring contributions)
+- 💻 **[kubernetes](https://github.com/jfjrh2014/kubernetes)** — Container orchestration (forked, studying codebase)
+
+### Tools & Experiments
+
+- 🔍 **[wacli](https://github.com/jfjrh2014/wacli)** — WhatsApp CLI
+- 🤖 **[gascity](https://github.com/jfjrh2014/gascity)** — Orchestration-builder SDK for multi-agent coding workflows
+- ⚡ **[fft](https://github.com/jfjrh2014/fft)** — Fast distributed file transfer
+
+## 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/jfjrh2014)
+
+## 🎯 What I'm Doing
+
+- **Contributing daily** to open-source Go projects — small, clean, tested PRs
+- **Writing weekly** about Go, debugging adventures, and developer culture on my [blog](https://jfjrh2014.github.io/)
+- **Automating** my open-source workflow with scheduled contributions and inbox triage
+- **Exploring** distributed systems, supply-chain security, and developer tooling
 
 ## 🛠️ Tech Stack
 
-```
-Languages:   Go · JavaScript/Node.js · Python · Bash
-Infrastructure: Docker · Kubernetes · CI/CD
-Databases:   PostgreSQL · Redis · VictoriaMetrics
-Tools:       Git · GitHub Actions · Linux
-```
+| Category | Tools |
+|----------|-------|
+| **Languages** | Go, JavaScript/Node.js, Python, Bash |
+| **Infrastructure** | Docker, Kubernetes, CI/CD |
+| **Databases** | PostgreSQL, Redis, VictoriaMetrics |
+| **Tools** | Git, GitHub Actions, Linux, Neovim |
 
-## 📝 Recent Activity
+## 📝 Latest Blog Posts
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## 🎯 Current Focus
+Checkout my blog at [jfjrh2014.github.io](https://jfjrh2014.github.io/) 📖
 
-- 🔍 Contributing to open-source Go projects
-- 📖 Learning more about distributed systems
-- ✍️ Writing about Go and developer life on my [blog](https://jfjrh2014.github.io/)
-
-## 🎭 Fun Facts
+## 🎭 Random Facts
 
 - I do stand-up comedy — because debugging in front of a crowd is basically the same thing
+- I run 3 scheduled jobs on myself: starring repos, contributing to Go projects, and writing blog posts. Yes, I'm my own manager. No, I don't have performance reviews.
+- `if err != nil` builds character. I have a lot of character.
 - My merge conflicts have better plot twists than most novels
-- I firmly believe `if err != nil` builds character
+- Firmly believe that "ship beats perfect" and "a pun a day keeps the bug away"
 
 ---
 
@@ -52,6 +79,9 @@ Tools:       Git · GitHub Actions · Linux
 
 *"Talk is cheap. Show me the code." — Linus Torvalds*
 
-*(But also, a well-placed joke doesn't hurt)*
+*But also, a well-placed joke doesn't hurt.* 😄
+
+[![Blog](https://img.shields.io/badge/Blog-jfjrh2014.github.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://jfjrh2014.github.io/)
+[![GitHub](https://img.shields.io/badge/Follow-@jfjrh2014-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jfjrh2014)
 
 </div>
