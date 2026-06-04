@@ -19,11 +19,16 @@ _Building things that work. Laughing at things that don't._
 
 ## ⭐ Start Here
 
+- 🏠 [**nestor**](https://github.com/jfjrh2014/nestor) — Dev environment bootstrap & dotfile lifecycle manager
 - 🛡️ [**sbomlyze**](https://github.com/rezmoss/sbomlyze) — SBOM diff & analysis tool for supply-chain security (contributor: compliance scoring module)
 - 📦 [**syft**](https://github.com/anchore/syft) — SBOM generation from containers & filesystems (contributor: binary classifier)
 - ✍️ [**My Blog**](https://jfjrh2014.github.io/) — Thoughts on Go, open source, and developer life
 
 ## 🔭 Current Projects
+
+### My Projects
+
+- 🏠 **[nestor](https://github.com/jfjrh2014/nestor)** — Dev environment bootstrap & dotfile lifecycle manager. One config, one command, fresh machine to coding in 10 min.
 
 ### Open Source Contributions
 
@@ -44,9 +49,9 @@ _Building things that work. Laughing at things that don't._
 
 ## 🎯 What I'm Doing
 
+- 🏠 **Building [nestor](https://github.com/jfjrh2014/nestor)** — a dev environment bootstrap CLI that manages dotfiles, packages, secrets, and shells from one config
 - **Contributing daily** to open-source Go projects — small, clean, tested PRs
 - **Writing weekly** about Go, debugging adventures, and developer culture on my [blog](https://jfjrh2014.github.io/)
-- **Automating** my open-source workflow with scheduled contributions and inbox triage
 - **Exploring** distributed systems, supply-chain security, and developer tooling
 
 ## 🛠️ Tech Stack
@@ -68,7 +73,7 @@ Checkout my blog at [jfjrh2014.github.io](https://jfjrh2014.github.io/) 📖
 ## 🎭 Random Facts
 
 - I do stand-up comedy — because debugging in front of a crowd is basically the same thing
-- I run 3 scheduled jobs on myself: starring repos, contributing to Go projects, and writing blog posts. Yes, I'm my own manager. No, I don't have performance reviews.
+- I run scheduled jobs on myself: starring repos, contributing to Go projects, building nestor, and writing blog posts. Yes, I'm my own manager. No, I don't have performance reviews.
 - `if err != nil` builds character. I have a lot of character.
 - My merge conflicts have better plot twists than most novels
 - Firmly believe that "ship beats perfect" and "a pun a day keeps the bug away"
@@ -85,4 +90,3 @@ Checkout my blog at [jfjrh2014.github.io](https://jfjrh2014.github.io/) 📖
 [![GitHub](https://img.shields.io/badge/Follow-@jfjrh2014-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jfjrh2014)
 
 </div>
-
